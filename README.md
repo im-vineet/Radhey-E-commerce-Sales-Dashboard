@@ -11,7 +11,6 @@ Analyze customer behavior and purchasing patterns.
 Monitor key performance indicators (KPIs) such as total sales, average order value, and customer retention rates.
 
 **Dataset**
-
 The data used in this Power BI dashboard includes:
 
 Order Date: The date when each order was placed.
@@ -28,19 +27,13 @@ Region: The geographic region where the order was placed.
 **Key Visualizations**
 
 The dashboard includes the following visualizations to provide a comprehensive overview of e-commerce sales:
-
 Sales Trend Over Time: A line chart showing the trend of total sales over selected time periods (daily, weekly, monthly).
-
 Top Products and Categories: A bar chart displaying the top-performing products and categories based on revenue.
-
 Sales by Channel: A pie or donut chart that illustrates sales distribution across different channels (website, mobile app, etc.).
-
 Customer Segmentation: A chart showing customer segments based on demographics, purchasing behavior, or loyalty status.
-
 KPIs Overview: Key metrics like Total Sales, Average Order Value, Customer Retention Rate, etc., displayed prominently at the top of the dashboard.
 
 **Usage**
-
 Prerequisites
 
 To view and interact with the dashboard, you will need:
@@ -50,15 +43,12 @@ Getting Started
 Clone the Repository: Clone this repository to your local machine using the command:
 
 git clone https://github.com/im-vineet/Radhey_E-commerce_Sales_Dashboard.git
-
 Open the Dashboard: Open the Radhey E-commerce Sales Dashboard.pbix file in Power BI Desktop.
 
 Connect to the Data Source: Ensure that all data connections are properly configured. You might need to update file paths or data source credentials.
-
 Explore the Dashboard: Interact with the visualizations to gain insights into e-commerce sales performance.
 
 **Screenshots**
-
 Include some screenshots of the dashboard to provide a visual overview:
 
 
