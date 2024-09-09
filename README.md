@@ -50,6 +50,7 @@ Getting Started
 Clone the Repository: Clone this repository to your local machine using the command:
 
 git clone https://github.com/im-vineet/Radhey_E-commerce_Sales_Dashboard.git
+
 Open the Dashboard: Open the Radhey E-commerce Sales Dashboard.pbix file in Power BI Desktop.
 
 Connect to the Data Source: Ensure that all data connections are properly configured. You might need to update file paths or data source credentials.
