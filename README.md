@@ -47,7 +47,7 @@ Connect to the Data Source: Ensure that all data connections are properly config
 Explore the Dashboard: Interact with the visualizations to gain insights into e-commerce sales performance.
 
 Screenshots
+
 Include some screenshots of the dashboard to provide a visual overview:
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details
+
