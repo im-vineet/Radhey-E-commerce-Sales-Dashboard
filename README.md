@@ -1,7 +1,7 @@
 # Radhey E-commerce Sales Dashboard
 This repository contains a Power BI dashboard named Radhey E-commerce Sales Dashboard, designed to provide an in-depth analysis of e-commerce sales performance. The dashboard visualizes key metrics and insights to help stakeholders understand sales trends, customer behavior, and overall business performance.
 
-**Overviw **
+**Overviw**
 
 The Radhey E-commerce Sales Dashboard is designed to:
 
